@@ -1,10 +1,18 @@
 html, body{
+    min-height: 100vh;
+    display: flex;
     background-color: hsl(212, 45%, 89%);
     color: hsl(218, 44%, 22%);
     font-size: 15px;
     font-family: 'Outfit', sans-serif;
     font-weight: 700;
     text-align: center;
+}
+
+.all{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .back{
