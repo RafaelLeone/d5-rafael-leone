@@ -1,4 +1,4 @@
-body{
+html, body{
     background-color: hsl(212, 45%, 89%);
     color: hsl(218, 44%, 22%);
     font-size: 15px;
@@ -8,7 +8,8 @@ body{
 }
 
 .back{
-    width: 90%;
+    margin: auto;
+    width: 80%;
     background-color: white;
     border-radius: 10px;
 }
@@ -20,8 +21,7 @@ p{
 }
 
 .qr img{
-    width: 80%;
-    border-radius: 40px;
-    padding: 20px;
-    padding-top: 10px;
+    width: 95%;
+    border-radius: 10px;
+    margin-top: 10px;
 }
