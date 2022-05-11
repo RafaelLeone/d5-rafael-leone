@@ -42,5 +42,11 @@ p{
         margin: 40%;
         margin-top: 0px;
         margin-bottom: 0px;
+        font-size: 12px;
+    }
+
+    h2{
+        margin-left: 5%;
+        margin-right: 5%;
     }
 }
