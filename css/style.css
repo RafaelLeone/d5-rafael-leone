@@ -45,6 +45,10 @@ p{
         font-size: 12px;
     }
 
+    .back{
+        width: 100%;
+    }
+
     h2{
         margin-left: 5%;
         margin-right: 5%;
