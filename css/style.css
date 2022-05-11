@@ -4,8 +4,22 @@ body{
     font-size: 15px;
     font-family: 'Outfit', sans-serif;
     font-weight: 700;
+    text-align: center;
+}
+
+.back{
+    width: 90%;
+    background-color: white;
+    border-radius: 10px;
 }
 
 p{
     color: hsl(220, 15%, 55%);
+}
+
+.qr img{
+    width: 80%;
+    border-radius: 40px;
+    padding: 20px;
+    padding-top: 10px;
 }
